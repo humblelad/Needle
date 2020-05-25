@@ -4,6 +4,7 @@
 ![Needle](https://github.com/humblelad/Needle/blob/master/img/needle.png)
 
 Needle is the only extension you may need to have one click access to your bug submissions across various platforms.
+No need to create any bookmark, type on the url bar and have fuss with autocomplete problems.
 
 Right now the list included is-
 1. Hackerone
@@ -21,5 +22,7 @@ and added support as-
 ## Usage
 
 Dl the repo as zip, extract and load the needle folder via the "Load unpacked extension. " (Enable dev mode in chrome before it.)
+
+FYI, ensure, you are already logged into your accounts, or else the site will redirect for login.
 
 Queries/Features welcome at Issues/Pull requests.
