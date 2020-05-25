@@ -27,4 +27,4 @@ Dl the repo as zip, extract and load the needle folder via the "Load unpacked ex
 
 FYI, ensure, you are already logged into your accounts, or else the site will redirect for login.
 
-Queries/Features welcome at Issues/Pull requests.
+Queries/Features welcome at Issues/Pull requests. Please support, it motivates me. :)
