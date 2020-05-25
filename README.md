@@ -3,7 +3,7 @@
 
 ![Needle](https://github.com/humblelad/Needle/blob/master/img/needle.png)
 
-Needle is the only extension you may need to have one click access to your bug submissions across various platforms.
+Needle is the only chrome extension you may need to have one click access to your bug submissions across various platforms.
 No need to create any bookmark, type on the url bar and have fuss with autocomplete problems.
 
 Right now the list included is-
@@ -18,6 +18,8 @@ and added support as-
 
 ### Screenshot-
 ![screen](https://github.com/humblelad/Needle/blob/master/img/screen.jpg)
+
+On clicking any of the above, it opens the bug submission dashboard of that site.  ex. for h1: https://hackerone.com/bugs
 
 ## Usage
 
